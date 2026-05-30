@@ -100,7 +100,7 @@ select.love-input{appearance:none;background-image:radial-gradient(var(--pink) 1
   justify-content: center;
   transition: height 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
-
+##9
 #cur-photo {
   display: block;
   max-width: 100%;
